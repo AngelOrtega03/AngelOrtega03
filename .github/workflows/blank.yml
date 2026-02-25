@@ -1,4 +1,4 @@
-- name: snkgen
+name: snkgen
   # You may pin to the exact commit or the version.
   # uses: isitreallyalive/snkgen@e2d143fdce872f27229bf5b278fb4933b04f8e6d
   uses: isitreallyalive/snkgen@v3.3.0
@@ -8,7 +8,6 @@
     # GitHub token used to fetch the contribution calendar. default to the action token if empty.
     github_token: # optional, default is ${{ github.token }}
     # list of files to generate.
-one file per line. Each output can be customized with options as query string.
 
 supported options:
 - palette:        a preset of color, one of [github, github-dark, github-light]
