@@ -2,7 +2,7 @@
 
 ### A fullstack web / desktop app developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AngelOrtega03&label=Profile views&color=0e75b6&style=flat" alt="AngelOrtega03" /> </p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=angelortega03)
 
 - 🔭 I'm currently working on **a CHIP-8 emulator built in Java**
 
