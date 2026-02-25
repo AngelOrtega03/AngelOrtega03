@@ -1,4 +1,4 @@
-# Hi 👋, I'm Angel Ortega
+# Angel Ortega
 
 ### A fullstack web / desktop app developer
 
