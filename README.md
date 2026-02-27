@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **angel.orve03@gmail.com**
 
-- ⚡ Fun fact **The first programming language I tried was BASIC.**
+- ⚡ Fun fact **I like dogs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
